@@ -16,7 +16,7 @@
 <li>android:background</li>
 <li>android:layout_width</li>
 <li>android:layout_height</li>
-<li><a href="https://youtu.be/nF6X_s6kRmI?t=81">Единица измерения dp</a></li>
+<li><a href="https://youtu.be/nF6X_s6kRmI?t=81">density independent pixels(dp)</a></li>
 </li></ul>
 
 
