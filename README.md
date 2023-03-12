@@ -10,7 +10,13 @@
 <li>Самозакрывающийся тег</li>
 <li>Младшие XML элементы</li>
 </li></ul>
-<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture03">Синтаксис XML</a>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture08">XML теги</a>
+<ul>
+<li></li>
+<li>android:text=""</li>
+<li>Самозакрывающийся тег</li>
+<li>Младшие XML элементы</li>
+</li></ul>
 
 
 
