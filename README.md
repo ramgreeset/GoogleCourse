@@ -16,9 +16,9 @@
 <li>android:background</li>
 <li>android:layout_width</li>
 <li>android:layout_height</li>
-<li><a href="https://youtu.be/nF6X_s6kRmI?t=81">density independent pixels(dp)</a></li>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture08">density independent pixels(dp)</a></li>
 </li></ul>
-<li><a href="https://www.youtube.com/watch?v=KRNGZIoja2M">Размер по содержимому</a></li>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture10">Размер по содержимому</a></li>
 <ul>
 <li>HardCode</li>
 <li>wrap_content</li>
