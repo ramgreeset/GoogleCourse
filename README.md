@@ -24,6 +24,8 @@
 <li>wrap_content</li>
 <li>Размер шрифта в текстовом поле Android Basics</li>
 <ul>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture11">Scale Independent Pixels</a></li>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture11">Material Design</a></li>
 
 
 
