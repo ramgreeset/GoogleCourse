@@ -22,7 +22,7 @@
 <ul>
 <li>HardCode</li>
 <li>wrap_content</li>
-<li><a href="https://youtu.be/nF6X_s6kRmI?t=81">Размер шрифта в текстовом поле Android Basics</a></li>
+<li>Размер шрифта в текстовом поле Android Basics</li>
 <ul>
 
 
