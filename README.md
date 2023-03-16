@@ -31,6 +31,7 @@
 
 <li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture11">Размер шрифта в текстовом поле Android Basics</a></li>
 <ul>
+<li>TextView</li>
 <li>Scale Independent Pixels</li>
 <li>Material Design</li>
 </ul>
