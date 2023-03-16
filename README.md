@@ -47,7 +47,14 @@
 <li>атрибут scaleType</li>
 </ul>
 
+<b><a href="https://javarush.com/quests/lectures?quest=QUEST_GOOGLE_ANDROID&level=2">level 2</a></b>
 
-
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level02.lecture00">View groups</a></li>
+<ul>
+<li>Root View</li>
+<li>Parent</li>
+<li>Child</li>
+<li>Sibling</li>
+</ul>
 
 </ol>
