@@ -55,6 +55,18 @@
 <li>Parent</li>
 <li>Child</li>
 <li>Sibling</li>
+<li>LinearLayout</li>
+<li>RelativeLayout</li>
+<li>xmlns (xml namespace)</li>
+</ul>
+
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level02.lecture04">Распределение контента внутри родительского элемента</a></li>
+<ul>
+<li>match_parent</li>
+<li>portrait mode</li>
+<li>landscape mode</li>
+<li>Layout weight</li>
+
 </ul>
 
 </ol>
