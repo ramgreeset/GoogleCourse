@@ -40,7 +40,7 @@
 <li>Hex value</li>
 </ul>
 
-<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture12">ImageView</a></li>
+<li><a href="https://javarush.com/quests/lectures/questgoogleandroid.level01.lecture13">ImageView</a></li>
 <ul>
 <li>атрибут src</li>
 <li>атрибут scaleType</li>
